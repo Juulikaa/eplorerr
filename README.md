@@ -1,10 +1,4 @@
-Repokid
-=======
-[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix/osstracker.svg)]()
-[![Build Status](https://travis-ci.com/Netflix/repokid.svg?branch=master)](https://travis-ci.com/Netflix/repokid)
-[![PyPI version](https://badge.fury.io/py/repokid.svg)](https://badge.fury.io/py/repokid)
-[![Coverage Status](https://coveralls.io/repos/github/Netflix/repokid/badge.svg?branch=master)](https://coveralls.io/github/Netflix/repokid?branch=master)
-[![Discord chat](https://img.shields.io/discord/754080763070382130?logo=discord)](https://discord.gg/9kwMWa6)
+Repokid  YYYara
 
 <img align="center" alt="Repokid Logo" src="https://github.com/Netflix/repokid/blob/master/docs/images/Repokid.png?raw=true" width="25%" display="block">
 
