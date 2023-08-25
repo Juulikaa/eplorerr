@@ -88,7 +88,7 @@ Running `repokid config config.json` creates a file that you will need to edit. 
 - `aardvark_api_location`: The location to your Aardvark REST API.  Something like `https://aardvark.yourcompany.net/api/1/advisors`
 - `connection_iam`: Set `assume_role` to `RepokidRole`, or whatever you have called it.
 
-## Optional Config
+## Optional Configg
 Repokid uses filters to decide which roles are candidates to be repoed.  Filters may be configured to suit your
 environment as described below.
 
