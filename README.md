@@ -8,7 +8,7 @@ an AWS account.
 
 ## Getting Started
 
-### Install
+### Install pending
 
 ```bash
 mkvirtualenv repokid
