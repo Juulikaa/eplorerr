@@ -1,4 +1,4 @@
-# gRepokid  Yasrann45n
+# gRepokid  Yasrann
 
 <img align="center" alt="Repokid Logo" src="https://github.com/Netflix/repokid/blob/master/docs/images/Repokid.png?raw=true" width="25%" display="block">
 
