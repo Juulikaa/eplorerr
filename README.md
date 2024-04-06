@@ -6,7 +6,7 @@ Repokid uses Access Advisor provided by [Aardvark](https://github.com/Netflix-Sk
 to remove permissions granting access to unused services from the inline policies of IAM roles in
 an AWS account. #1
 
-## Getting Started ise
+## Getting Started 
 
 ### Install pending
 
